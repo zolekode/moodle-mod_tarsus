@@ -1,5 +1,10 @@
 # Changes
 
+## 1.1.1 (2026-11-12)
+
+- The accounting question type is labelled "Accounting exercise" (German: "Buchhaltung") in the activity settings; the request still sends `accountingWidget`.
+- README lists the accounting exercise among the task formats.
+
 ## 1.1.0 (2026-11-10)
 
 - New question type "Account Exercise" (accountingWidget) in the activity settings.

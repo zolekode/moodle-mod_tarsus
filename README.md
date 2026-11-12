@@ -45,7 +45,7 @@ The pictures in this section are Tarsus product visuals and show the coach in th
 | Build knowledge | Test knowledge | Ask a question |
 |:--:|:--:|:--:|
 | <img src="https://framerusercontent.com/images/s0fmuHNzzQzugFWdZ64BNRzBZVE.webp" alt="Explanation card built from the course material" width="400"> | <img src="https://framerusercontent.com/images/hgagwUKE5rL19zOgU4zCXHDL8wk.webp" alt="Spreadsheet task with line-by-line feedback" width="400"> | <img src="https://framerusercontent.com/images/Gg6PdLZrXoksmnEkebq2iomzcCM.webp" alt="The coach answers a question and shows the calculation path" width="400"> |
-| Learning units with objectives, explanation cards and check questions, optionally read aloud. One idea at a time, with examples for the target group. | Tasks like in the exam: single choice, true/false, open questions, rule of three and spreadsheet calculations – with feedback that says what is still missing, experience points and a progress bar. | Questions in the learner's own words, answered from the included material only. Learners can also ask about any learning card or task ("Ask about this"). |
+| Learning units with objectives, explanation cards and check questions, optionally read aloud. One idea at a time, with examples for the target group. | Tasks like in the exam: single choice, true/false, open questions, rule of three, spreadsheet calculations and accounting exercises – with feedback that says what is still missing, experience points and a progress bar. | Questions in the learner's own words, answered from the included material only. Learners can also ask about any learning card or task ("Ask about this"). |
 
 Teachers switch each mode on or off per activity; learners switch between the enabled modes at the bottom of the chat.
 
@@ -63,7 +63,7 @@ With the *Agent-driven* interaction type the coach answers inside Moodle with in
 | | | | |
 |:--:|:--:|:--:|:--:|
 | <img src="https://framerusercontent.com/images/sdtCvG7M3Q59Nl80mwa2yOOaMTY.webp" alt="Single-choice question with explanation" width="300"> | <img src="https://framerusercontent.com/images/du1FTrsuwAElUTZUEEC5v1euI.webp" alt="Open question with partial credit and feedback on what is missing" width="300"> | <img src="https://framerusercontent.com/images/uNSphTDFSP6R85PZw7wZVvGQK0.webp" alt="True-or-false task with a check button" width="300"> | <img src="https://framerusercontent.com/images/rmkJPlhI2NqsHY2Xt1UFnddNeoU.webp" alt="Calculation chain with two correctly computed values" width="300"> |
-| Single choice with an explanation | Open questions with partial credit | True or false | Rule of three and spreadsheet calculations |
+| Single choice with an explanation | Open questions with partial credit | True or false | Rule of three, spreadsheet calculations and accounting exercises |
 
 ### The right level for every person
 
@@ -256,7 +256,7 @@ Every Tarsus activity has its own settings in four sections:
 |---|---|
 | **AI settings: general** | *Interaction type* (AI manager-driven or Agent-driven) · *Difficulty level (DQR)* from 2-year vocational training to Master Professional · *Taxonomy levels* (knowledge, understanding, application) · *Target group* as free text, e.g. a trade · *Cheat prevention* |
 | **AI settings: Ask a question** | *Enable* · *Conversation style*: closed, lexical, tutorial, Socratic or open |
-| **AI settings: Test knowledge** | *Enable* · *Task operators*: standard or IHK (name, describe, explain, elaborate) · *Question types* per difficulty grade (easy, medium, hard) out of single choice, true/false, open question, rule of three and spreadsheet calculation · *Learning pace* from ×0.1 to ×2 |
+| **AI settings: Test knowledge** | *Enable* · *Task operators*: standard or IHK (name, describe, explain, elaborate) · *Question types* per difficulty grade (easy, medium, hard) out of single choice, true/false, open question, rule of three, spreadsheet calculation and accounting exercise (Buchhaltung) · *Learning pace* from ×0.1 to ×2 |
 | **AI settings: Build knowledge** | *Enable* · *Add GIFs* · *Didactic concept* (micro-learning) |
 
 At least one mode must be enabled, and every difficulty grade needs at least one question type. The usual Moodle sections follow: availability, restrict access, completion (including *Progress reached*), tags and competencies.

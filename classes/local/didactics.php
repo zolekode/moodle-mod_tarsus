@@ -47,7 +47,7 @@ final class didactics {
     /** @var string Spreadsheet calculation (Tabellenkalkulation) question widget type. */
     public const TYPE_TRADECOSTING = 'tradeCostingQuestionWidget';
 
-    /** @var string Account exercise question type; the brain answers it with table questions. */
+    /** @var string Accounting exercise (Buchhaltung) question type; the brain answers it with table questions. */
     public const TYPE_ACCOUNTING = 'accountingWidget';
 
     /** @var string[] Every question type a teacher can request from the brain. */
